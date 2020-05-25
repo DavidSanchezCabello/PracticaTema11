@@ -52,5 +52,14 @@ public class PruebaArboles
         {
         	System.out.println("El árbol no está vacío");
         }
+        if(arbol1.arbolVacio()) {
+        	System.out.println("El arbol  esta vacio David");
+        }else {
+        	System.out.println("El árbol no está vacío David");
+        }
+        
+        System.out.println("El árbol seleccionado tiene:"+ arbol1.hojas());
+        
+        
     }
 }
