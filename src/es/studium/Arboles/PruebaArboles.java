@@ -60,6 +60,6 @@ public class PruebaArboles
         
         System.out.println("El árbol seleccionado tiene:"+ arbol1.hojas());
         
-        
+        System.out.println("Existe?"+ arbol1.existe(5));
     }
 }

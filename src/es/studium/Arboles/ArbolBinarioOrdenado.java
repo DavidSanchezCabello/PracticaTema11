@@ -31,11 +31,11 @@ public class ArbolBinarioOrdenado
 	}
 	public ArbolBinarioOrdenado(ArbolBinarioOrdenado i, Integer v, ArbolBinarioOrdenado d)
 	{
-//		ArbolBinarioOrdenado resultado = new ArbolBinarioOrdenado();
-//		
-//		resultado.izquierda = this.izquierda ;
-//		resultado.setValor(v);
-//		resultado.derecha = this.derecha ;
+		ArbolBinarioOrdenado resultado = new ArbolBinarioOrdenado();
+		
+		resultado.izquierda = this.izquierda ;
+		resultado.setValor(v);
+		resultado.derecha = this.derecha ;
 		
 		
 		// Completar æææ
